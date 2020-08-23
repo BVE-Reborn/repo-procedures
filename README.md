@@ -10,6 +10,7 @@ Checklists for repo management.
 - [ ] Update version numbers of all crates.
 - [ ] Update in-crate documentation
 - [ ] Run `cargo readme -o README.md` then correct doc links and whitespace.
+- [ ] Update authors list
 - [ ] Update CHANGELOG.md
   - [ ] Move all unreleased changes into section with new version.
   - [ ] Add any missing changes. Use sections from [https://keepachangelog.com/en/1.0.0/](keepachangelog.com).
