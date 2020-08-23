@@ -3,6 +3,23 @@ Checklists for repo management.
 
 ## Repo Creation
 
+- [ ] Create empty repo, with a description
+- [ ] Create files from templates
+  - [ ] License 
+    - [ ] MPL-2.0 
+    - [ ] Apache-2.0 OR MIT OR ZLib
+      - [ ] Check MIT and ZLib date and copyright owner
+  - [ ] `.gitignore` 
+    - [ ] Cargo.lock?
+  - [ ] `CHANGELOG.md`
+    - [ ] Change repo address and versions
+  - [ ] `README.tpl`
+    - [ ] Adjust repo address
+  - [ ] `.rustfmt.toml`
+  - [ ] Cargo.toml
+    - [ ] Adjust everything as needed
+- [ ] Setup CI
+
 ## CI Set Up
 
 ## Publish Version
