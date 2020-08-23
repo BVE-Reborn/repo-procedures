@@ -19,8 +19,13 @@ Checklists for repo management.
   - [ ] Cargo.toml
     - [ ] Adjust everything as needed
 - [ ] Setup CI
+- [ ] Run `cargo readme -o README.md` then correct doc links and whitespace.
 
 ## CI Set Up
+- [ ] Define MSRV
+- [ ] Set MSRV in `ci.yml`
+- [ ] Use and adjust `ci.yml`
+- [ ] Mention MSRV in crate documenation.
 
 ## Publish Version
 
