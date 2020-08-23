@@ -35,6 +35,7 @@ Checklists for repo management.
 - [ ] Update authors list
 - [ ] Update CHANGELOG.md
   - [ ] Move all unreleased changes into section with new version.
+  - [ ] Add new section to the table of contents
   - [ ] Add any missing changes. Use sections from [https://keepachangelog.com/en/1.0.0/](keepachangelog.com).
   - [ ] First thing in version section is: `Released YYYY-MM-DD`
   - [ ] Update diffs to include section from `<old-version>..<new-version>`
