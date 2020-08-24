@@ -41,7 +41,7 @@ Checklists for repo management.
   - [ ] Update diffs to include section from `<old-version>..<new-version>`
   - [ ] Update unreleased diff to `<new-version>..HEAD`
 - [ ] Commit all changes and merge into `master` if needed
-- [ ] Create a tag on `master` commit with full version info: `v0.6.0`.
+- [ ] Create a tag on `main` commit with full version info: `v0.6.0`.
 - [ ] Push tag to github
 - [ ] Create github release on that tag
   - [ ] Named `v0.6.0` or `v0.6.0 - Optional Quick Summary of Changes`.
