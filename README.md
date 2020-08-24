@@ -34,6 +34,7 @@ Checklists for repo management.
 - [ ] Update in-crate documentation
 - [ ] Run `cargo readme -o README.md` then correct doc links and whitespace.
 - [ ] Update authors list
+- [ ] Update `keywords` and `categories` if applicable
 - [ ] Update CHANGELOG.md
   - [ ] Move all unreleased changes into section with new version.
   - [ ] Add new section to the table of contents
