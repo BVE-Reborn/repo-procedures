@@ -16,6 +16,7 @@ Checklists for repo management.
   - [ ] `README.tpl`
     - [ ] Adjust repo address
   - [ ] `.rustfmt.toml`
+  - [ ] `deny.toml`
   - [ ] Cargo.toml
     - [ ] Adjust everything as needed
 - [ ] Setup CI
